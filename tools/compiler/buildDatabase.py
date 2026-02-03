@@ -5,6 +5,7 @@ import re
 import sys
 import base64
 import gzip
+import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib import error as url_error
@@ -139,6 +140,8 @@ def main() -> None:
 
     for manifest_path in manifest_paths:
         package_label = str(manifest_path.relative_to(repo_root))
+        rel_to_packages = manifest_path.relative_to(packages_root)
+        username_from_path = rel_to_packages.parts[0] if rel_to_packages.parts else ""
         try:
             with manifest_path.open("r", encoding="utf-8") as handle:
                 manifest = json.load(handle)
@@ -154,19 +157,33 @@ def main() -> None:
 
         manifest_dir = manifest_path.parent
 
-        manifest_id = manifest.get("id")
-        if not isinstance(manifest_id, str) or not manifest_id.strip():
-            errors.append(
-                "ERROR: Missing or invalid id "
-                f"({ _format_value(manifest_id) }) in {package_label}."
-            )
+        id_path = manifest_path.parent / "autogen_id"
+        package_id: str | None = None
+        if id_path.exists():
+            try:
+                package_id = id_path.read_text(encoding="utf-8").strip()
+            except OSError as exc:
+                errors.append(
+                    f"ERROR: Failed to read autogen_id ({exc}) in {package_label}."
+                )
         else:
-            if manifest_id in seen_ids:
+            package_id = str(uuid.uuid4())
+            try:
+                id_path.write_text(f"{package_id}\n", encoding="utf-8")
+            except OSError as exc:
+                errors.append(
+                    f"ERROR: Failed to write autogen_id ({exc}) in {package_label}."
+                )
+
+        if not package_id:
+            errors.append(f"ERROR: Missing or empty autogen_id in {package_label}.")
+        else:
+            if package_id in seen_ids:
                 errors.append(
                     "ERROR: Duplicate id "
-                    f"({ _format_value(manifest_id) }) in {package_label}."
+                    f"({ _format_value(package_id) }) in {package_label}."
                 )
-            seen_ids.add(manifest_id)
+            seen_ids.add(package_id)
 
         thumbnail = manifest.get("thumbnail")
         if not isinstance(thumbnail, str) or not thumbnail.strip():
@@ -297,6 +314,8 @@ def main() -> None:
                 )
 
         updated_manifest = dict(manifest)
+        updated_manifest["id"] = package_id
+        updated_manifest["userName"] = username_from_path
         media_folder = updated_manifest.get("mediaFolder")
         folder = media_folder.strip() if isinstance(media_folder, str) else ""
         if folder and not folder.startswith("/"):

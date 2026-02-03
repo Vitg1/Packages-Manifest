@@ -1,0 +1,19 @@
+{
+    "id": "3c7b5dbc-35ac-44fd-9860-0f44e328c628",
+    "userName": "ITsMagic",
+    "titleB64": "Q2FyIHBoeXNpY3MgLSBBQ1A=",
+    "descriptionB64": "QWR2YW5jZWQgY2FyIHBoeXNpY3M=",
+    "tags": "acp",
+    "version": 1,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-ACP",
+    "isTemplate": true,
+    "date": "02/02/2026",
+    "mediaFolder": "itsmagic/acp",
+    "thumbnail": "thumb.jpg",
+    "images": [
+    "img1.jpg",
+    "img2.jpg",
+    "img3.jpg",
+    "img4.jpg"
+    ]
+}

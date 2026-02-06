@@ -1,0 +1,14 @@
+{
+    "titleB64": "Qm90dGxl",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IEJvdHRsZQ==",
+    "tags": "3d,assets,model,itsmagic",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic/Bottle_Assets",
+    "isTemplate": false,
+    "date": "06/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ]
+}

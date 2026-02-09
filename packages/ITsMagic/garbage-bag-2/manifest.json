@@ -1,0 +1,14 @@
+{
+    "titleB64": "R2FyYmFnZUJhZzI=",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IEdhcmJhZ2VCYWcy",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-GarbageBag2",
+    "isTemplate": false,
+    "date": "09/02/2026",
+    "thumbnail": "thumb.jpeg",
+    "images": [
+        "img1.jpeg"
+    ]
+}

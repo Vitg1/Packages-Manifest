@@ -1,0 +1,14 @@
+{
+    "titleB64": "Q29uZTI=",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IENvbmUy",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cone2",
+    "isTemplate": false,
+    "date": "09/02/2026",
+    "thumbnail": "thumb.jpeg",
+    "images": [
+        "img1.jpeg"
+    ]
+}

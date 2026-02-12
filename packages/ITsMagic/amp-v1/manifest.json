@@ -6,12 +6,12 @@
     "repositoryURL": "https://github.com/itsvks19/TemplateV1-AMP",
     "isTemplate": true,
     "date": "12/02/2026",
-    "thumbnail": "img4.jpg",
+    "thumbnail": "img4.png",
     "appMajorVersion": 1,
     "images": [
-        "img1.jpg",
-        "img3.jpg",
-        "img2.jpg",
-        "img4.jpg"
+        "img1.png",
+        "img3.png",
+        "img2.png",
+        "img4.png"
     ]
 }

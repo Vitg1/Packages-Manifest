@@ -6,11 +6,11 @@
     "repositoryURL": "https://github.com/itsvks19/TemplateV1-AFPP",
     "isTemplate": true,
     "date": "12/02/2026",
-    "thumbnail": "img1.jpg",
+    "thumbnail": "img1.png",
     "appMajorVersion": 1,
     "images": [
-        "img2.jpg",
-        "img3.jpg",
-        "img4.jpg"
+        "img2.png",
+        "img3.png",
+        "img4.png"
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "titleB64": "TWV0YWxCYXJyaWVyMw==",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjM=",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier3",
+    "isTemplate": false,
+    "date": "15/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ]
+}

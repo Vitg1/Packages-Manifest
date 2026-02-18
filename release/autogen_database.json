@@ -406,6 +406,22 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "SHlkcmFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEh5ZHJhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Hydrant",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/hydrant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/hydrant/img1.jpg"
+      ],
+      "id": "0529843b-4671-419b-b560-25d9af22c018",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "SW5maW5pdGUgVm94ZWwgR2FtZQ==",
       "descriptionB64": "SW5maW5pdGUgd29ybGQgdm94ZWwgZ2FtZSBpbiBkZXZlbG9wZW1lbnQKdXBkYXRlcyBhcmUgY29taW5nLg==",
       "tags": "voxel,infinite,world",
@@ -459,6 +475,118 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/magicfarmer-v1/img2.png"
       ],
       "id": "de357506-7068-4512-ba33-ef518cf87fb0",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXI=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFy",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBar",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar/img1.jpg"
+      ],
+      "id": "61d4d4bf-c2e1-4ee8-a015-1efd002ab058",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXIy",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFyMg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBar2",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-2/img1.jpg"
+      ],
+      "id": "96b48290-6731-4a8c-a111-5352fce0e7c1",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXJyaWVy",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier/img1.jpg"
+      ],
+      "id": "efa9f197-fba8-4326-af14-f7f62eeed311",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXJyaWVyMg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjI=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier2",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier-2/img1.jpg"
+      ],
+      "id": "7429fde4-76c0-4549-a298-300bba18da1c",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXJyaWVyMw==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjM=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier3",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier-3/img1.jpg"
+      ],
+      "id": "4fa38a0c-270f-4bab-a240-174256cf4ef9",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXJyaWVyNA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcjQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrier4",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier-4/img1.jpg"
+      ],
+      "id": "abc250d8-8c21-480b-ae01-4c97ed428a80",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "T3BlbmVkQm94",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE9wZW5lZEJveA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-OpenedBox",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/opened-box/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/opened-box/img1.jpg"
+      ],
+      "id": "3f208c5f-0921-400d-ac3d-0ec492d3b400",
       "userName": "ITsMagic"
     },
     {
@@ -516,6 +644,70 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/the-last-hour-v1/img6.png"
       ],
       "id": "4ca042af-2b64-4cbc-a962-4c5f09918f81",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY1NpZ24=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWdu",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign/img1.jpg"
+      ],
+      "id": "30500f44-75d8-4049-befd-865b621dc009",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY1NpZ24y",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduMg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign2",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-2/img1.jpg"
+      ],
+      "id": "f4cae9ce-0cf1-4564-89d8-b5bc5838204c",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY1NpZ24z",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduMw==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign3",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-3/img1.jpg"
+      ],
+      "id": "03cffe6e-e1cc-4181-8ad0-941957816f3b",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "VHJhZmZpY1NpZ240",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IFRyYWZmaWNTaWduNA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-TrafficSign4",
+      "isTemplate": false,
+      "date": "15/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/traffic-sign-4/img1.jpg"
+      ],
+      "id": "d98f0a2e-9897-431a-afd7-5d56323caccb",
       "userName": "ITsMagic"
     },
     {

@@ -1,0 +1,16 @@
+{
+    "titleB64": "RGVsdGFTeXN0ZW0gKEJhdGNoIFRleHQgTG9naWMgRW5naW5lKQ==",
+    "descriptionB64": "RGVsdGFTeXN0ZW0gaXMgYSBzY3JpcHQtbGlrZSBiYXRjaCB0ZXh0IG1hbmlwdWxhdGlvbiBzeXN0ZW0uCkl0IGFsbG93cyB5b3UgdG8gcHJvY2VzcyBhbmQgbW9kaWZ5IHRleHQgYWNyb3NzIG11bHRpcGxlIGZpbGVzIHVzaW5nIGN1c3RvbSBsb2dpYyBydWxlcyBhbmQgZ3JvdXBlZCBhY3Rpb25zLgoKWW91IGNhbiBkZWZpbmUgdGFyZ2V0cyAobGlrZSAqLmphdmEpLCBhcHBseSByZXBsYWNlbWVudHMsIGZvcm1hdHRpbmcsIGxvZ2dpbmcgcHJlZml4ZXMsIGxhbmd1YWdlIGZpbHRlcnMgYW5kIGNvbWJpbmUgbXVsdGlwbGUgYWN0aW9ucyB0b2dldGhlci4KCkl0IHdvcmtzIGxpa2UgYSBsaWdodHdlaWdodCBhdXRvbWF0aW9uIGVuZ2luZSBmb3IgdGV4dCBmaWxlcyDigJQgdXNlZnVsIGZvciBtYXNzIGZvcm1hdHRpbmcsIGZpeGluZyByZXBlYXRlZCBtaXN0YWtlcywgcmVmYWN0b3JpbmcgcGF0dGVybnMsIG9yIGp1c3QgZXhwZXJpbWVudGluZyB3aXRoIHRleHQgdHJhbnNmb3JtYXRpb25zLgoKVGhpcyBzdGFydGVkIGFzIGEgc21hbGwgbGVhcm5pbmcgcHJvamVjdCwgYnV0IGl0IGV2b2x2ZWQgaW50byBzb21ldGhpbmcgbXVjaCBtb3JlIGZsZXhpYmxlIGFuZCBwb3dlcmZ1bCwgc28gSSBkZWNpZGVkIHRvIHB1Ymxpc2ggaXQuCgpUaGUgc3lzdGVtIGlzIG1vZHVsYXIgYW5kIHlvdSBjYW4gY3JlYXRlIGFzIG1hbnkgYWN0aW9ucyBhcyB5b3Ugd2FudCB0byBtYW5pcHVsYXRlIHRleHQgaG93ZXZlciB5b3UgbGlrZS4KCkluY2x1ZGVzIGEgc2ltcGxlIGhvd190b191c2UgZ3VpZGUgYW5kIGZ1bGwgZG9jdW1lbnRhdGlvbi4KCkZlZWwgZnJlZSB0byBtb2RpZnkgYW5kIGV4cGVyaW1lbnQgd2l0aCB0aGUgY29kZSDigJQgaXQgaXMgbm90IHBlcmZlY3QsIGJ1dCBpdCBpcyBtYWRlIHRvIGJlIGV4cGxvcmVkLg==",
+    "tags": "text,automation,script,refactor,utility,code",
+    "version": 1,
+    "repositoryURL": "https://github.com/Vitg1/Delta-System",
+    "isTemplate": false,
+    "date": "26/02/2026",
+    "thumbnail": "capa.png",
+    "appMajorVersion": 2,
+    "images": [
+"capa.png",
+        "Img1.png",
+         "Img2.png",
+      "Img3.png"]
+}}}

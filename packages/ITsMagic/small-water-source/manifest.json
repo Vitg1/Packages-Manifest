@@ -1,0 +1,14 @@
+{
+    "titleB64": "U21hbGxXYXRlclNvdXJjZQ==",
+    "descriptionB64": "QXNzZXRzIHBhY2s6IFNtYWxsV2F0ZXJTb3VyY2U=",
+    "tags": "graphics,assets,model",
+    "version": 1,
+    "appMajorVersion": 2,
+    "repositoryURL": "https://github.com/ITsMagic-Software/Package-SmallWaterSource",
+    "isTemplate": false,
+    "date": "23/02/2026",
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ]
+}

@@ -39,6 +39,22 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QWRoZXNpdmVUYXBl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEFkaGVzaXZlVGFwZQ==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-AdhesiveTape",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/adhesive-tape/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/adhesive-tape/img1.jpg"
+      ],
+      "id": "9ed2fdca-23e1-4cf1-8e1c-dcf22e394249",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "Rmlyc3QgcGVyc29uIHBsYXllciBwcm9qZWN0IChBRlBQKQ==",
       "descriptionB64": "T2ZmaWNpYWwgYWR2YW5jZWQgZmlyc3QgcGVyc29uIHBsYXllcgoKSXQgaXMgYSBmdWxseSBjb25maWd1cmVkIGFuZCBmdW5jdGlvbmFsIHBsYXllci4KCkl0IGhhcyBhIGNvbnRyb2wgaW50ZXJmYWNlLgpBZHZhbmNlZCBmb290c3RlcCBzb3VuZHMgd2l0aCBmcmVxdWVuY3ksIHBpdGNoIGFuZCB2b2x1bWUgdmFyaWF0aW9uIGJhc2VkIG9uIHNwZWVkIGFuZCBzY2VuZSBzZXR0aW5ncy4KRGlmZmVyZW50IHR5cGVzIG9mIGZvb3RzdGVwIHNvdW5kcyBhcmUgZW1pdHRlZCBiYXNlZCBvbiB0aGUgc3VyZmFjZSB0aGUgcGxheWVyIGlzIHN0YW5kaW5nIG9uLgoKQ2hhcmFjdGVyaXN0aWNzOgpkb2VzIG5vdCBjcm9zcyBjb2xsaXNpb25zCnVzZSBqb3lzdGljawpPbmx5IHVzZXMgc3dpcGVzIGlmIHdpdGhpbiBhIGRlZmluZWQgYXJlYSBvZiB0aGUgc2NyZWVuCkl0IGhhcyBhIHNsaWRpbmcgc3lzdGVtCldvbnQgdHJpcCwgZmFsbCwgb3ZlcnR1cm4gb3IgaGFuZyBhbnl3aGVyZQpIYXMgcm90YXRpb24gYW5nbGUgbGltaXQgb24gdmVydGljYWwgZmluZ2VyIHNsaWRlIGF4aXMgKGxvb2sgdXAgYW5kIGRvd24pCkFkdmFuY2VkIGp1bXAgZmVhdHVyZQoKRXh0cmFzOgpBIHdvcmxkIG9mIGV4YW1wbGUKVGhlIFVJIGNvbmZpZ3VyZWQgZm9yIHBsYXllciBjb250cm9s",
       "tags": "afpp",
@@ -302,6 +318,22 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "QmF0aHJvb21TaW5r",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEJhdGhyb29tU2luaw==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-BathroomSink",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bathroom-sink/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/bathroom-sink/img1.jpg"
+      ],
+      "id": "7bf981cf-31ae-4eee-95ad-581fb4c2fdec",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "QmF5IENpdHkgKHdpdGggY2FyKQ==",
       "descriptionB64": "QSBjb21wbGV0ZSBjaXR5IHdpdGggYSBuaWNlIHBpY2t1cCBmb3IgZXhwbG9yYXRpb24u",
       "tags": "city,baycity",
@@ -453,6 +485,86 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "Q2FiaW5ldA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhYmluZXQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cabinet",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cabinet/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cabinet/img1.jpg"
+      ],
+      "id": "245a9928-abeb-4abe-b94e-9ee616df33c0",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2FiaW5ldA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhYmluZXQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Cabinet2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cabinet-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cabinet-2/img1.jpg"
+      ],
+      "id": "e2fff219-63cc-43e2-83af-ffe90d6f24b3",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2FyZGJvYXJkQm94",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhcmRib2FyZEJveA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-CardboardBox",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cardboard-box/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cardboard-box/img1.jpg"
+      ],
+      "id": "b29e8a52-eb0c-41db-a973-eefe04ecb432",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2FyZGJvYXJkQm94",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhcmRib2FyZEJveA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-CardboardBox2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cardboard-box-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cardboard-box-2/img1.jpg"
+      ],
+      "id": "c0e7e057-f7af-43f7-b038-983ab4359538",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2FyZGJvYXJkQm94",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENhcmRib2FyZEJveA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-CardboardBox3",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cardboard-box-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cardboard-box-3/img1.jpg"
+      ],
+      "id": "0e42cc0b-741d-4ef0-8dd8-5e246eddd26c",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "Q2FyZ28gVHJ1Y2sgUGh5c2ljcw==",
       "descriptionB64": "U2ltcGxlIGNhcmdvIHRydWNrIHBoeXNpY3MgbWFkZSB3aXRoIGphdmE=",
       "tags": "truck,cargo,physics",
@@ -487,6 +599,38 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/cavechurch/img4.jpg"
       ],
       "id": "f0fda940-257a-448d-be47-a8e90e807a5f",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2hhaXI=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENoYWly",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Chair",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/chair/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/chair/img1.jpg"
+      ],
+      "id": "1379c95d-c529-43b6-88b9-946229192d4f",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q2xhd0hhbW1lcg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENsYXdIYW1tZXI=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-ClawHammer",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/claw-hammer/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/claw-hammer/img1.jpg"
+      ],
+      "id": "8094f728-5040-4afe-a6b9-de4ed8b53ff2",
       "userName": "ITsMagic"
     },
     {
@@ -586,6 +730,38 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "Q29udGFpbmVy",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbnRhaW5lcg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Container",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/container/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/container/img1.jpg"
+      ],
+      "id": "d2a6bf4e-048f-4fbd-8545-c26f00761f6c",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "Q29udGFpbmVy",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IENvbnRhaW5lcg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Container2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/container-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/container-2/img1.jpg"
+      ],
+      "id": "b7fe22cf-365d-4170-b416-4762ae5e8015",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "Q3JhenkgUmFjZXJz",
       "descriptionB64": "VGhlIENyYXp5UmFjZXJz",
       "tags": "crazyracers,car,racing,crazy",
@@ -624,6 +800,70 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "RG9vcg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3I=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Door",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door/img1.jpg"
+      ],
+      "id": "b433f4a4-7991-4546-849a-df0d0571482f",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RG9vcg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3I=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Door2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door-2/img1.jpg"
+      ],
+      "id": "7504e09e-276b-4cf4-bd18-5303ebfec44d",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RG9vcg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3I=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Door3",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door-3/img1.jpg"
+      ],
+      "id": "2719981b-3baf-4247-b261-6d89d87bcd6d",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RG9vckJlYW0=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IERvb3JCZWFt",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-DoorBeam",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door-beam/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/door-beam/img1.jpg"
+      ],
+      "id": "62c088ed-6717-4e5c-b02e-2d664dff7f45",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "RHJlc3Nlcg==",
       "descriptionB64": "QXNzZXRzIHBhY2s6IERyZXNzZXI=",
       "tags": "graphics,assets,model",
@@ -656,6 +896,54 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/drift-acp/img4.jpg"
       ],
       "id": "08d46151-22bc-4749-af1a-44a8c485163d",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RW5naW5lUm9vbQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEVuZ2luZVJvb20=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-EngineRoom",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/engine-room/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/engine-room/img1.jpg"
+      ],
+      "id": "80571636-4d07-4839-858d-68f907620bfc",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RmlyZUV4dGluZ3Vpc2hlcg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZpcmVFeHRpbmd1aXNoZXI=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-FireExtinguisher",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fire-extinguisher/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fire-extinguisher/img1.jpg"
+      ],
+      "id": "7e1cd511-a1d9-4c2d-816d-b390a86b2ac8",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "RmlyZUV4dGluZ3Vpc2hlcg==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEZpcmVFeHRpbmd1aXNoZXI=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-FireExtinguisher2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fire-extinguisher-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/fire-extinguisher-2/img1.jpg"
+      ],
+      "id": "4562bf15-1ea1-4de3-b072-620a345d260c",
       "userName": "ITsMagic"
     },
     {
@@ -704,6 +992,22 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/glass-bottle/img1.jpg"
       ],
       "id": "82a25e77-f2eb-42a7-a842-e35c83102069",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "R2x1ZQ==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IEdsdWU=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-Glue",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/glue/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/glue/img1.jpg"
+      ],
+      "id": "c8db6959-8d80-415f-be47-0f2ce80741ea",
       "userName": "ITsMagic"
     },
     {
@@ -795,6 +1099,102 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "TGFkZGVyVmFyaWFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExhZGRlclZhcmlhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LadderVariant",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ladder-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ladder-variant/img1.jpg"
+      ],
+      "id": "bfaf08e6-3000-4f6e-bc69-6c0f3c98d8b3",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TGFkZGVyVmFyaWFudA==",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExhZGRlclZhcmlhbnQ=",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LadderVariant2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ladder-variant-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/ladder-variant-2/img1.jpg"
+      ],
+      "id": "2f2a0120-ab1f-43e0-9f50-a3ac732f7d7e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TGlnaHRCdWxi",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb/img1.jpg"
+      ],
+      "id": "41300495-cb91-4470-9865-e2883731bcf5",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TGlnaHRCdWxi",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb-2/img1.jpg"
+      ],
+      "id": "ae612b81-7fd3-4960-b8a9-e061ea811bff",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TGlnaHRCdWxi",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb3",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb-3/img1.jpg"
+      ],
+      "id": "af044dc4-3d1d-4408-aaf2-c9bf37d98a59",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TGlnaHRCdWxi",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IExpZ2h0QnVsYg==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-LightBulb4",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/light-bulb-4/img1.jpg"
+      ],
+      "id": "7516c7f7-93a8-47fb-be60-150859a0e5c8",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "TWFnaWNCb3kgLSBUaGlyZCBQZXJzb24gUGxheWVy",
       "descriptionB64": "TWFnaWNCb3kgQWR2ZW50dXJlcwpUaGlyZCBwZXJzb24gcGxheWVyIHByb2plY3QKClpvbWJpZXMga2VlcCBzcGF3bmluZw==",
       "tags": "magicboy,zombie,tpp",
@@ -862,6 +1262,54 @@
       "userName": "ITsMagic"
     },
     {
+      "titleB64": "TWV0YWxCYXJWYXJpYW50",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFyVmFyaWFudA==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarVariant",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-variant/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-bar-variant/img1.jpg"
+      ],
+      "id": "bbff21db-dd13-48c1-98ad-5b0c2843ab49",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXJyZWw=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmVs",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrel",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrel/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrel/img1.jpg"
+      ],
+      "id": "4f644ff4-9726-4fc4-a81d-f42d49a4a96e",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxCYXJyZWw=",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmVs",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalBarrel2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrel-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrel-2/img1.jpg"
+      ],
+      "id": "ad920b71-bb79-4ff9-810d-9062b127fe7b",
+      "userName": "ITsMagic"
+    },
+    {
       "titleB64": "TWV0YWxCYXJyaWVy",
       "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsQmFycmllcg==",
       "tags": "props,assets,model,3d",
@@ -923,6 +1371,86 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-barrier-4/img1.jpg"
       ],
       "id": "abc250d8-8c21-480b-ae01-4c97ed428a80",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxQaXBl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe/img1.jpg"
+      ],
+      "id": "d562069a-3f9c-4441-995f-1c393640d7d9",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxQaXBl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe2",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-2/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-2/img1.jpg"
+      ],
+      "id": "9a11ee52-d3ed-42fa-a50c-2c29b60fa732",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxQaXBl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe3",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-3/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-3/img1.jpg"
+      ],
+      "id": "0088a223-1260-4f17-8f02-a689e755cae6",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxQaXBl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe4",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-4/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-4/img1.jpg"
+      ],
+      "id": "674978ad-7df0-48c4-be13-45bb6b3de875",
+      "userName": "ITsMagic"
+    },
+    {
+      "titleB64": "TWV0YWxQaXBl",
+      "descriptionB64": "QXNzZXRzIHBhY2s6IE1ldGFsUGlwZQ==",
+      "tags": "graphics,assets,model",
+      "version": 1,
+      "appMajorVersion": 2,
+      "repositoryURL": "https://github.com/ITsMagic-Software/Package-MetalPipe5",
+      "isTemplate": false,
+      "date": "25/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-5/thumb.jpg",
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/ITsMagic/metal-pipe-5/img1.jpg"
+      ],
+      "id": "d019ca56-f6b2-4be1-8118-cbe585e0841a",
       "userName": "ITsMagic"
     },
     {
@@ -1362,6 +1890,25 @@
         "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/ClothSimulation-V2/img7.png"
       ],
       "id": "f7eb6aae-b83b-46d7-8e06-7ca186b048f0",
+      "userName": "Vitg1"
+    },
+    {
+      "titleB64": "RGVsdGFTeXN0ZW0gKEJhdGNoIFRleHQgTG9naWMgRW5naW5lKQ==",
+      "descriptionB64": "RGVsdGFTeXN0ZW0gaXMgYSBzY3JpcHQtbGlrZSBiYXRjaCB0ZXh0IG1hbmlwdWxhdGlvbiBzeXN0ZW0uCgpJdCBhbGxvd3MgeW91IHRvIHByb2Nlc3MgYW5kIG1vZGlmeSB0ZXh0IGFjcm9zcyBtdWx0aXBsZSBmaWxlcyB1c2luZyBjdXN0b20gbG9naWMgcnVsZXMgYW5kIGdyb3VwZWQgYWN0aW9ucy4KCllvdSBjYW4gZGVmaW5lIHRhcmdldHMgKGxpa2UgKi5qYXZhKSwgYXBwbHkgcmVwbGFjZW1lbnRzLCBmb3JtYXR0aW5nLCBsb2dnaW5nIHByZWZpeGVzLCBsYW5ndWFnZSBmaWx0ZXJzIGFuZCBjb21iaW5lIG11bHRpcGxlIGFjdGlvbnMgdG9nZXRoZXIuCgpJdCB3b3JrcyBhcyBhIGxpZ2h0d2VpZ2h0IGF1dG9tYXRpb24gZW5naW5lIGZvciB0ZXh0IGZpbGVzIOKAlCB1c2VmdWwgZm9yIG1hc3MgZm9ybWF0dGluZywgZml4aW5nIHJlcGVhdGVkIG1pc3Rha2VzLCByZWZhY3RvcmluZyBwYXR0ZXJucyBvciBleHBlcmltZW50aW5nIHdpdGggdGV4dCB0cmFuc2Zvcm1hdGlvbnMuCgpUaGUgc3lzdGVtIGlzIG1vZHVsYXIgYW5kIHlvdSBjYW4gY3JlYXRlIGFzIG1hbnkgYWN0aW9ucyBhcyB5b3Ugd2FudCB0byBtYW5pcHVsYXRlIHRleHQgaG93ZXZlciB5b3UgbGlrZS4KCkluY2x1ZGVzIGEgc2ltcGxlIGhvd190b191c2UgZ3VpZGUgYW5kIGZ1bGwgZG9jdW1lbnRhdGlvbi4=",
+      "tags": "text,automation,script,utility,code",
+      "version": 1,
+      "repositoryURL": "https://github.com/Vitg1/Delta-System",
+      "isTemplate": false,
+      "date": "26/02/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-its2/capa.png",
+      "appMajorVersion": 2,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-its2/capa.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-its2/Img1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-its2/Img2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-its2/Img3.png"
+      ],
+      "id": "da163b24-7abe-433c-a647-802e26fce315",
       "userName": "Vitg1"
     },
     {

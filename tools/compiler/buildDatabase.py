@@ -117,6 +117,29 @@ def _replace_ext_case_insensitive(value: str, old_ext: str, new_ext: str) -> str
     return re.sub(rf"(?i){re.escape(old_ext)}$", new_ext, value)
 
 
+def _decode_base64_utf8(
+    field_name: str,
+    encoded_value: object,
+    package_label: str,
+    errors: list[str],
+) -> str | None:
+    if not isinstance(encoded_value, str) or not encoded_value.strip():
+        errors.append(
+            f"ERROR: Missing or invalid {field_name} "
+            f"({ _format_value(encoded_value) }) in {package_label}."
+        )
+        return None
+
+    try:
+        return base64.b64decode(encoded_value, validate=True).decode("utf-8")
+    except (ValueError, UnicodeDecodeError):
+        errors.append(
+            f"ERROR: Invalid base64 in {field_name} "
+            f"({ _format_value(encoded_value) }) in {package_label}."
+        )
+        return None
+
+
 def _normalize_media_entry(
     manifest_dir: Path,
     value: str,
@@ -390,49 +413,39 @@ def main() -> None:
                     )
 
         title_b64 = manifest.get("titleB64")
-        if not isinstance(title_b64, str) or not title_b64.strip():
+        decoded_title = _decode_base64_utf8(
+            "titleB64", title_b64, package_label, errors
+        )
+        if decoded_title is not None and len(decoded_title) > title_max_length:
             errors.append(
-                "ERROR: Missing or invalid titleB64 "
-                f"({ _format_value(title_b64) }) in {package_label}."
+                "ERROR: title exceeds max chars "
+                f"(len={len(decoded_title)}, "
+                f"limit={title_max_length}) in {package_label}."
             )
-        else:
-            try:
-                decoded_title = base64.b64decode(title_b64, validate=True).decode(
-                    "utf-8"
-                )
-                if len(decoded_title) > title_max_length:
-                    errors.append(
-                        "ERROR: title exceeds max chars "
-                        f"(len={len(decoded_title)}, "
-                        f"limit={title_max_length}) in {package_label}."
-                    )
-            except (ValueError, UnicodeDecodeError):
-                errors.append(
-                    "ERROR: Invalid base64 in titleB64 "
-                    f"({ _format_value(title_b64) }) in {package_label}."
-                )
 
         description_b64 = manifest.get("descriptionB64")
-        if not isinstance(description_b64, str) or not description_b64.strip():
+        decoded_description = _decode_base64_utf8(
+            "descriptionB64", description_b64, package_label, errors
+        )
+        if (
+            decoded_description is not None
+            and len(decoded_description) > description_max_length
+        ):
             errors.append(
-                "ERROR: Missing or invalid descriptionB64 "
-                f"({ _format_value(description_b64) }) in {package_label}."
+                "ERROR: description exceeds max chars "
+                f"(len={len(decoded_description)}, "
+                f"limit={description_max_length}) in {package_label}."
             )
-        else:
-            try:
-                decoded_description = base64.b64decode(
-                    description_b64, validate=True
-                ).decode("utf-8")
-                if len(decoded_description) > description_max_length:
-                    errors.append(
-                        "ERROR: description exceeds max chars "
-                        f"(len={len(decoded_description)}, "
-                        f"limit={description_max_length}) in {package_label}."
-                    )
-            except (ValueError, UnicodeDecodeError):
+
+        license_b64 = manifest.get("licenseB64")
+        if license_b64 is not None:
+            decoded_license = _decode_base64_utf8(
+                "licenseB64", license_b64, package_label, errors
+            )
+            if decoded_license is not None and not decoded_license.strip():
                 errors.append(
-                    "ERROR: Invalid base64 in descriptionB64 "
-                    f"({ _format_value(description_b64) }) in {package_label}."
+                    "ERROR: licenseB64 decodes to an empty value "
+                    f"({ _format_value(license_b64) }) in {package_label}."
                 )
 
         app_major_version = manifest.get("appMajorVersion")
@@ -451,6 +464,8 @@ def main() -> None:
                 errors.append(f"ERROR: Failed to write {package_label}: {exc}")
 
         updated_manifest = dict(manifest)
+        if isinstance(license_b64, str) and license_b64.strip():
+            updated_manifest["licenseB64"] = license_b64
         updated_manifest["id"] = package_id
         updated_manifest["userName"] = username_from_path
         if isinstance(tags, str):

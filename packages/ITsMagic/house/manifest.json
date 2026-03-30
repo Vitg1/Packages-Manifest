@@ -7,8 +7,10 @@
     "repositoryURL": "https://github.com/ITsMagic-Software/Package-House",
     "isTemplate": false,
     "date": "30/03/2026",
-    "thumbnail": "",
-    "images": [],
+    "thumbnail": "thumb.jpg",
+    "images": [
+        "img1.jpg"
+    ],
     "licenseB64": "aHR0cHM6Ly9za2V0Y2hmYWIuY29tLzNkLW1vZGVscy9icmltc3RvbmUtcHJvcHMtYzhkYzFlYTI1ZmY3NGVhNGIzZWJjM2RjZDc1NDBlODk=",
     "repivot": true
 }

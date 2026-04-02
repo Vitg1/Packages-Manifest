@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "TW9uc3RlcmFEZWxpY2lvc2FQbGFudA==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgbW9uc3RlcmEgcGxhbnQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJUcm9waWNhbCBQbGFudHMgUGFjayBNMDJQIiBTa2V0Y2hmYWIgcGFjayBieSBNb3p6YXJlbGxhQVJDLiBJdCBmaXRzIHRyb3BpY2FsIGdhcmRlbnMsIGx1c2ggZXh0ZXJpb3Igc2NlbmVzLCBhcmNoaXRlY3R1cmFsIHZpc3VhbGl6YXRpb24gYW5kIFVucmVhbCBFbmdpbmUgZW52aXJvbm1lbnRzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIFBCUiB3b3JrZmxvdy4=",
-    "tags":  "monstera,plant,vegetation,interior,tropical,pbr,unreal-engine,variant",
+    "tags":  "monstera,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-MonsteraDeliciosaPlant3",

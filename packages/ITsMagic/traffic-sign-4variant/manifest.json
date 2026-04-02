@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "VHJhZmZpY1NpZ25WYXJpYW50",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgdHJhZmZpYyBzaWduIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
-    "tags":  "traffic-sign,signage,roadwork,safety,game-ready,unity,variant",
+    "tags":  "traffic_sign,signage,roadwork,safety,game_ready,unity,variant",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-TrafficSign4Variant",

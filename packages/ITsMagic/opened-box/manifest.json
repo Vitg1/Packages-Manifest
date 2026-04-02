@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "T3BlbmVkQm94",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBvcGVuZWQgYm94IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiU3RyZWV0IEFzc2V0IFBhY2siIFNrZXRjaGZhYiBwYWNrIGJ5IHZtYXR0aGV3LiBJdCBmaXRzIHNpZGV3YWxrcywgcm9hZHdvcmssIGFsbGV5cyBhbmQgdXJiYW4gZW52aXJvbm1lbnQgZHJlc3NpbmcsIGJhc2VkIG9uIGFzc2V0cyBjcmVhdGVkIGluIEJsZW5kZXIgYW5kIFN1YnN0YW5jZSAzRCBQYWludGVyLg==",
-    "tags":  "opened-box,container,storage,packaging,street,urban",
+    "tags":  "opened_box,container,storage,packaging,street,urban",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-OpenedBox",

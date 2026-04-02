@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "QnVja2V0",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBidWNrZXQgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJNZWRpZXZhbCBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgRGFuaWVsIFZpY2VudGUuIEl0IGZpdHMgbW9kdWxhciBtZWRpZXZhbCBjaXR5IHNjZW5lcywgdmlsbGFnZSBlbnZpcm9ubWVudHMsIGNvdXJ0eWFyZHMgYW5kIGhpc3RvcmljYWwgc2V0IGRyZXNzaW5nLg==",
-    "tags":  "bucket,container,utility,medieval,game-ready",
+    "tags":  "bucket,container,utility,medieval,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Bucket",

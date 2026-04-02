@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "QSBQYW1wc1NoYWRlIE1vZGVs",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0YWJsZSBsYW1wIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiQnJpbXN0b25lIFByb3BzIiBTa2V0Y2hmYWIgcGFjayBieSBDdHJsTGlnaHQuIEl0IGZpdHMgaW50ZXJpb3IgcHJvcHMsIHJvb20gZHJlc3NpbmcgYW5kIGVudmlyb25tZW50YWwgc3Rvcnl0ZWxsaW5nIHNjZW5lcyBpbnNwaXJlZCBieSB0aGUgb3JpZ2luYWwgQnJpbXN0b25lIHByb2plY3Qu",
-    "tags":  "table-lamp,lighting,decor,interior,realistic,game-ready",
+    "tags":  "table_lamp,lighting,decor,interior,realistic,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-PampsShade",

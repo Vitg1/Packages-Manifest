@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "QSBTbW9raW5nUGlwZSBNb2RlbA==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBzbW9raW5nIHBpcGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCcmltc3RvbmUgUHJvcHMiIFNrZXRjaGZhYiBwYWNrIGJ5IEN0cmxMaWdodC4gSXQgZml0cyBpbnRlcmlvciBwcm9wcywgcm9vbSBkcmVzc2luZyBhbmQgZW52aXJvbm1lbnRhbCBzdG9yeXRlbGxpbmcgc2NlbmVzIGluc3BpcmVkIGJ5IHRoZSBvcmlnaW5hbCBCcmltc3RvbmUgcHJvamVjdC4=",
-    "tags":  "smoking-pipe,decor,interior,tabletop,realistic,game-ready",
+    "tags":  "smoking_pipe,decor,interior,tabletop,realistic,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-SmokingPipe",

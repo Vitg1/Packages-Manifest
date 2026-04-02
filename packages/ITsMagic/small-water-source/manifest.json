@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "U21hbGxXYXRlclNvdXJjZQ==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBjb3ZlcmVkIHdlbGwgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJNZWRpZXZhbCBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgRGFuaWVsIFZpY2VudGUuIEl0IGZpdHMgbW9kdWxhciBtZWRpZXZhbCBjaXR5IHNjZW5lcywgdmlsbGFnZSBlbnZpcm9ubWVudHMsIGNvdXJ0eWFyZHMgYW5kIGhpc3RvcmljYWwgc2V0IGRyZXNzaW5nLg==",
-    "tags":  "covered-well,water-feature,medieval,environment,game-ready",
+    "tags":  "covered_well,water_feature,medieval,environment,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-SmallWaterSource",

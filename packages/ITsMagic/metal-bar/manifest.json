@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "TWV0YWxCYXI=",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCBiYXIgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJTdHJlZXQgQXNzZXQgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgc2lkZXdhbGtzLCByb2Fkd29yaywgYWxsZXlzIGFuZCB1cmJhbiBlbnZpcm9ubWVudCBkcmVzc2luZywgYmFzZWQgb24gYXNzZXRzIGNyZWF0ZWQgaW4gQmxlbmRlciBhbmQgU3Vic3RhbmNlIDNEIFBhaW50ZXIu",
-    "tags":  "metal-bar,construction,industrial,material,street,urban",
+    "tags":  "metal_bar,construction,industrial,material,street,urban",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-MetalBar",

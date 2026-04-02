@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "VHJhZmZpY1NpZ24=",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0cmFmZmljIHNpZ24gYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJTdHJlZXQgQXNzZXQgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgc2lkZXdhbGtzLCByb2Fkd29yaywgYWxsZXlzIGFuZCB1cmJhbiBlbnZpcm9ubWVudCBkcmVzc2luZywgYmFzZWQgb24gYXNzZXRzIGNyZWF0ZWQgaW4gQmxlbmRlciBhbmQgU3Vic3RhbmNlIDNEIFBhaW50ZXIu",
-    "tags":  "traffic-sign,signage,roadwork,safety,street,urban",
+    "tags":  "traffic_sign,signage,roadwork,safety,street,urban",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-TrafficSign",

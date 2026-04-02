@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "TWV0YWxQaXBl",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBtZXRhbCBwaXBlIGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRmFjdG9yeSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgVGhvbWFzX0Nyb3plbG9uLiBJdCBpcyBzdWl0ZWQgZm9yIGluZHVzdHJpYWwgc2NlbmVzLCBzZXJ2aWNlIGFyZWFzLCB1dGlsaXR5IHNwYWNlcyBhbmQgZW52aXJvbm1lbnQgZHJlc3NpbmcgaW4gcmVhbC10aW1lIHByb2plY3RzLCB1c2luZyB0aGUgb3JpZ2luYWwgcGFjaydzIDRLIG1hcHMu",
-    "tags":  "metal-pipe,pipe,industrial,construction,game-ready,unity",
+    "tags":  "metal_pipe,pipe,industrial,construction,game_ready,unity",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-MetalPipe",

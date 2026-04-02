@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "R2FyYmFnZUJhZw==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBnYXJiYWdlIGJhZyBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlN0cmVldCBBc3NldCBQYWNrIiBTa2V0Y2hmYWIgcGFjayBieSB2bWF0dGhldy4gSXQgZml0cyBzaWRld2Fsa3MsIHJvYWR3b3JrLCBhbGxleXMgYW5kIHVyYmFuIGVudmlyb25tZW50IGRyZXNzaW5nLCBiYXNlZCBvbiBhc3NldHMgY3JlYXRlZCBpbiBCbGVuZGVyIGFuZCBTdWJzdGFuY2UgM0QgUGFpbnRlci4=",
-    "tags":  "garbage-bag,trash,waste,street-prop,street,urban",
+    "tags":  "garbage_bag,trash,waste,street_prop,street,urban",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-GarbageBag",

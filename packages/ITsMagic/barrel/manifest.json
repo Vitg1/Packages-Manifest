@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "QmFycmVs",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBiYXJyZWwgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJCYXJyZWwgUGFjayIgU2tldGNoZmFiIHBhY2sgYnkgdm1hdHRoZXcuIEl0IGZpdHMgcHJvcCBkcmVzc2luZywgc3RvcmFnZSBzY2VuZXMgYW5kIHJlYWwtdGltZSBlbnZpcm9ubWVudCBjb21wb3NpdGlvbiwgYmFzZWQgb24gdGhlIHBhY2sncyBpbXByb3ZlZCB0ZXh0dXJlcyBhbmQgaGlnaGVyLXBvbHkgdHJlYXRtZW50Lg==",
-    "tags":  "barrel,container,storage,industrial,game-ready",
+    "tags":  "barrel,container,storage,industrial,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Barrel",

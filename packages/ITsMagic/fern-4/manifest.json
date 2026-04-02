@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "RmVybg==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIGEgdmFyaWFudCBvZiB0aGUgZmVybiBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIlRyb3BpY2FsIFBsYW50cyBQYWNrIE0wMlAiIFNrZXRjaGZhYiBwYWNrIGJ5IE1venphcmVsbGFBUkMuIEl0IGZpdHMgdHJvcGljYWwgZ2FyZGVucywgbHVzaCBleHRlcmlvciBzY2VuZXMsIGFyY2hpdGVjdHVyYWwgdmlzdWFsaXphdGlvbiBhbmQgVW5yZWFsIEVuZ2luZSBlbnZpcm9ubWVudHMsIHVzaW5nIHRoZSBvcmlnaW5hbCBwYWNrJ3MgUEJSIHdvcmtmbG93Lg==",
-    "tags":  "fern,plant,vegetation,interior,tropical,pbr,unreal-engine,variant",
+    "tags":  "fern,plant,vegetation,interior,tropical,pbr,unreal_engine,variant",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Fern4",

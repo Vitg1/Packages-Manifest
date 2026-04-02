@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "QSBUYWJsZSBNb2RlbA==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSB0YWJsZSBhc3NldCBleHRyYWN0ZWQgZnJvbSB0aGUgIkJyaW1zdG9uZSBQcm9wcyIgU2tldGNoZmFiIHBhY2sgYnkgQ3RybExpZ2h0LiBJdCBmaXRzIGludGVyaW9yIHByb3BzLCByb29tIGRyZXNzaW5nIGFuZCBlbnZpcm9ubWVudGFsIHN0b3J5dGVsbGluZyBzY2VuZXMgaW5zcGlyZWQgYnkgdGhlIG9yaWdpbmFsIEJyaW1zdG9uZSBwcm9qZWN0Lg==",
-    "tags":  "table,furniture,interior,surface,realistic,game-ready",
+    "tags":  "table,furniture,interior,surface,realistic,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Table",

@@ -1,6 +1,8 @@
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
+$utf8NoBom = [System.Text.UTF8Encoding]::new($false)
+
 $repoRoot = Split-Path -Parent $PSScriptRoot
 $packagesRoot = Join-Path $repoRoot "packages\ITsMagic"
 
@@ -268,6 +270,13 @@ function Get-PrimaryTag([string]$canonicalName) {
     return $canonicalName
 }
 
+function Normalize-Tag([string]$tag) {
+    $normalized = $tag.ToLowerInvariant() -replace "-", "_"
+    $normalized = $normalized -replace "[^a-z0-9_]", "_"
+    $normalized = $normalized -replace "_{2,}", "_"
+    return $normalized.Trim("_")
+}
+
 function Get-DisplayLabel([string]$canonicalName) {
     if ($labelMap.ContainsKey($canonicalName)) {
         return $labelMap[$canonicalName]
@@ -305,8 +314,9 @@ function Get-Tags([string]$packageName, [string]$canonicalName, [hashtable]$pack
 
     $unique = [System.Collections.Generic.List[string]]::new()
     foreach ($tag in $tags) {
-        if (-not [string]::IsNullOrWhiteSpace($tag) -and -not $unique.Contains($tag)) {
-            $unique.Add($tag)
+        $normalizedTag = Normalize-Tag $tag
+        if (-not [string]::IsNullOrWhiteSpace($normalizedTag) -and -not $unique.Contains($normalizedTag)) {
+            $unique.Add($normalizedTag)
         }
     }
 
@@ -350,7 +360,7 @@ foreach ($manifestPath in $manifests) {
     }
 
     $json = $updatedManifest | ConvertTo-Json -Depth 4
-    [System.IO.File]::WriteAllText($manifestPath.FullName, $json + [Environment]::NewLine, [Text.Encoding]::UTF8)
+    [System.IO.File]::WriteAllText($manifestPath.FullName, $json + [Environment]::NewLine, $utf8NoBom)
     $updated++
 }
 

@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "T2xkQ29uY3JldGVCdWlsZGluZw==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBvbGQgY29uY3JldGUgYnVpbGRpbmcgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJPbGQgQ29uY2V0ZSBCdWlsZGluZyBQYWNrIHwgTG93cG9seSIgU2tldGNoZmFiIHBhY2sgYnkgRnJpZC5ibGVuZC4gSXQgZml0cyBhYmFuZG9uZWQgdXJiYW4gZW52aXJvbm1lbnRzIGFuZCBtb2R1bGFyIGNpdHkgc2NlbmVzLCBiYXNlZCBvbiB0aGUgb3JpZ2luYWwgRkJYIGFzc2V0IHdpdGggNEsgdGV4dHVyZXMu",
-    "tags":  "concrete-building,architecture,building,urban,low-poly,abandoned",
+    "tags":  "concrete_building,architecture,building,urban,low_poly,abandoned",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-OldConcreteBuilding",

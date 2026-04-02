@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "R2xhc3NCb3R0bGU=",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBnbGFzcyBib3R0bGUgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJGdXJuaXR1cmUgUGFjayB8IExvdy1Qb2x5IHwgR2FtZS1SZWFkeSIgU2tldGNoZmFiIHBhY2sgYnkga0VhbS4gSXQgaXMgc3VpdGVkIGZvciByb29tIGRyZXNzaW5nLCBob21lIGludGVyaW9ycyBhbmQgc3R5bGl6ZWQgcmVhbC10aW1lIGVudmlyb25tZW50cyBmcm9tIHRoZSBvcmlnaW5hbCBsb3ctcG9seSBnYW1lLXJlYWR5IGZ1cm5pdHVyZSBjb2xsZWN0aW9uLg==",
-    "tags":  "glass-bottle,glass,container,interior,low-poly,game-ready",
+    "tags":  "glass_bottle,glass,container,interior,low_poly,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-GlassBottle",

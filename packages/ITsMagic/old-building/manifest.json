@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "T2xkQnVpbGRpbmc=",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBvbGQgYnVpbGRpbmcgYXNzZXQgZXh0cmFjdGVkIGZyb20gdGhlICJPbGQgQnVpbGRpbmcgUGFjayB8IExvd3BvbHkiIFNrZXRjaGZhYiBwYWNrIGJ5IEZyaWQuYmxlbmQuIEl0IGZpdHMgdXJiYW4gYmFja2Ryb3BzIGFuZCBhYmFuZG9uZWQgZGlzdHJpY3Qgc2NlbmVzLCBiYXNlZCBvbiB0aGUgb3JpZ2luYWwgRkJYIGFzc2V0IGFuZCBiYXNlY29sb3IgdGV4dHVyZSB3b3JrZmxvdy4=",
-    "tags":  "old-building,architecture,building,urban,low-poly,abandoned",
+    "tags":  "old_building,architecture,building,urban,low_poly,abandoned",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-OldBuilding",

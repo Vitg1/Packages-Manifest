@@ -1,7 +1,7 @@
-﻿{
+{
     "titleB64":  "QXNodHJheQ==",
     "descriptionB64":  "VGhpcyBwYWNrYWdlIHByb3ZpZGVzIHRoZSBhc2h0cmF5IGFzc2V0IGV4dHJhY3RlZCBmcm9tIHRoZSAiRnVybml0dXJlIFBhY2sgfCBMb3ctUG9seSB8IEdhbWUtUmVhZHkiIFNrZXRjaGZhYiBwYWNrIGJ5IGtFYW0uIEl0IGlzIHN1aXRlZCBmb3Igcm9vbSBkcmVzc2luZywgaG9tZSBpbnRlcmlvcnMgYW5kIHN0eWxpemVkIHJlYWwtdGltZSBlbnZpcm9ubWVudHMgZnJvbSB0aGUgb3JpZ2luYWwgbG93LXBvbHkgZ2FtZS1yZWFkeSBmdXJuaXR1cmUgY29sbGVjdGlvbi4=",
-    "tags":  "ashtray,decor,interior,low-poly,game-ready",
+    "tags":  "ashtray,decor,interior,low_poly,game_ready",
     "version":  1,
     "appMajorVersion":  2,
     "repositoryURL":  "https://github.com/ITsMagic-Software/Package-Ashtray",

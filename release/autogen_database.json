@@ -3483,6 +3483,27 @@
       "userName": "Vitg1"
     },
     {
+      "titleB64": "RGVsdGFTeXN0ZW0gKEJhdGNoIFRleHQgTG9naWMgRW5naW5lKQ==",
+      "descriptionB64": "RGVsdGFTeXN0ZW0gaXMgYSBsaWdodHdlaWdodCBzY3JpcHQtbGlrZSBzeXN0ZW0gZm9yIGJhdGNoIHRleHQgbWFuaXB1bGF0aW9uLiBJdCBhbGxvd3MgeW91IHRvIHByb2Nlc3MgYW5kIG1vZGlmeSB0ZXh0IGFjcm9zcyBtdWx0aXBsZSBmaWxlcyB1c2luZyBjdXN0b20gbG9naWMgcnVsZXMgYW5kIGdyb3VwZWQgYWN0aW9ucy4gWW91IGNhbiBkZWZpbmUgdGFyZ2V0cyAobGlrZSAqLmphdmEpLCBhcHBseSByZXBsYWNlbWVudHMsIGZvcm1hdHRpbmcsIHByZWZpeGVzIGFuZCBjb21iaW5lIG11bHRpcGxlIG9wZXJhdGlvbnMgdG9nZXRoZXIuIEl0IGlzIHVzZWZ1bCBmb3IgZml4aW5nIHJlcGVhdGVkIG1pc3Rha2VzLCBmb3JtYXR0aW5nIGxhcmdlIGFtb3VudHMgb2YgdGV4dCwgcmVmYWN0b3JpbmcgcGF0dGVybnMgb3IgZXhwZXJpbWVudGluZy4gVGhpcyBwcm9qZWN0IHN0YXJ0ZWQgYXMgYSBsZWFybmluZyBleHBlcmltZW50IGFuZCBldm9sdmVkIGludG8gYSBmbGV4aWJsZSB0b29sLiBJbmNsdWRlcyBhIHNpbXBsZSBob3dfdG9fdXNlIGFuZCBkb2N1bWVudGF0aW9uLiBGZWVsIGZyZWUgdG8gbW9kaWZ5IGFuZCBleHBsb3JlLg==",
+      "tags": "text,batch,automation,script,utility,formatter",
+      "version": 1,
+      "repositoryURL": "https://github.com/Vitg1/Delta-System",
+      "isTemplate": false,
+      "date": "05/04/2026",
+      "thumbnail": "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-V2/logo.jpg",
+      "appMajorVersion": 2,
+      "images": [
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-V2/logo.jpg",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-V2/1.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-V2/2.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-V2/3.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-V2/4.png",
+        "https://raw.githubusercontent.com/ITsMagic-Software/Packages-Manifest/refs/heads/main/packages/Vitg1/DeltaSystem-V2/5.png"
+      ],
+      "id": "b0950b8f-87e9-49ec-a42a-8f1d7ef09a06",
+      "userName": "Vitg1"
+    },
+    {
       "titleB64": "Q2FyZ28gdHJ1Y2sgcGh5c2ljcw==",
       "descriptionB64": "VmVyeSBzaW1wbGUgY2FyIHBoeXNpY3MgbWFkZSBvbiBJVHNNYWdpYyBFbmdpbmU=",
       "tags": "truck,car,physics,control",
